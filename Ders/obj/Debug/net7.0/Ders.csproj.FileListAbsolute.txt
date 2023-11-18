@@ -1,0 +1,15 @@
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\bin\Debug\net7.0\Ders.exe
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\bin\Debug\net7.0\Ders.deps.json
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\bin\Debug\net7.0\Ders.runtimeconfig.json
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\bin\Debug\net7.0\Ders.dll
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\bin\Debug\net7.0\Ders.pdb
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.csproj.AssemblyReference.cache
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.AssemblyInfoInputs.cache
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.AssemblyInfo.cs
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.csproj.CoreCompileInputs.cache
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.dll
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\refint\Ders.dll
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.pdb
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\Ders.genruntimeconfig.cache
+C:\Users\bth01\OneDrive\Desktop\OOP\Ders\obj\Debug\net7.0\ref\Ders.dll
