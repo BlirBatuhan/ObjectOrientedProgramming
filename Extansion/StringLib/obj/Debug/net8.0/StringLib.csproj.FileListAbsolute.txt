@@ -1,0 +1,11 @@
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\bin\Debug\net8.0\StringLib.deps.json
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\bin\Debug\net8.0\StringLib.dll
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\bin\Debug\net8.0\StringLib.pdb
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\StringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\StringLib.AssemblyInfoInputs.cache
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\StringLib.AssemblyInfo.cs
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\StringLib.csproj.CoreCompileInputs.cache
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\StringLib.dll
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\refint\StringLib.dll
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\StringLib.pdb
+C:\Users\bth01\OneDrive\Desktop\WebApi\Extansion\StringLib\obj\Debug\net8.0\ref\StringLib.dll
